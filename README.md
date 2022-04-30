@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vighnesh-pathrikar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="vighnesh-pathrikar" height="30" width="30" /></a>
-  <a href="mailto:pathrikarvighnesh@gmail.com"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1636960404~hmac=4ffb1e347a725918f26b3ff51900f8e1" alt="vighnesh-pathrikar" height="30" width="30" /></a>
+  <a href="mailto:pathrikarvighnesh@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="vighnesh-pathrikar" height="30" width="30" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VighneshPath&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
