@@ -1,11 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/VighneshPath/VighneshPath/main/readme_header.png)
 <h1 align="center">Hi 👋, I'm Vighnesh Pathrikar</h1>
-<h3 align="center">A CSE Junior who enjoys Scripting, Developing and Statistics.</h3>
+<h3 align="center">A SDE who enjoys Scripting, Developing and Statistics.</h3>
 
-
-- 🔭 I’m currently working on [A To-Do App using MERN technologies.](https://github.com/VighneshPath/MERN_ToDo)
-
-- 🌱 I’m currently learning **MERN Stack and Machine Learning.**
 
 - 📫 How to reach me **pathrikarvighnesh@gmail.com**
 
