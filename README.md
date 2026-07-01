@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/VighneshPath/VighneshPath/main/readme_header.png)
+![MasterHead](./readme_header.png)
 <h1 align="center">Hi 👋, I'm Vighnesh Pathrikar</h1>
 <h3 align="center">A SDE who enjoys Scripting, Developing and Statistics.</h3>
 
