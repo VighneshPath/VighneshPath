@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pathrikarvighnesh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mabm0hc1_JnmkWdjSe13KvtNRZV4xwCN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xUrIt5Xv6BIRM3RtN2mmg8XFfjUnzm4i/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love Coffee and Mechanical Keyboards 日本語**
 
