@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xUrIt5Xv6BIRM3RtN2mmg8XFfjUnzm4i/view?usp=drivesdk)
 
-- ⚡ Fun fact **I love Coffee and Mechanical Keyboards 日本語**
+- ⚡ Fun fact **I love Coffee, Mechanical Keyboards and learning 日本語**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
